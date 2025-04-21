@@ -20,7 +20,7 @@ An interactive chatbot that explains Python concepts, gives examples, and provid
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-ai-tutor.git
+git clone https://github.com/IshaGupta2010/python-ai-tutor.git
 cd python-ai-tutor
 pip install -r requirements.txt
 ollama run mistral
