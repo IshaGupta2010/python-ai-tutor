@@ -34,7 +34,7 @@ Clone the repository and install the required Python libraries:
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/python-ai-tutor.git
+git clone https://github.com/IshaGupta2010/python-ai-tutor.git
 cd python-ai-tutor
 pip install -r requirements.txt
 🧑‍💻 Running the App Locally
